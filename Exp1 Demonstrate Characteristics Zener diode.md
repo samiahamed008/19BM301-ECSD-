@@ -1,4 +1,4 @@
-# Experiment-1 Demonstrate the Characteristics of Zener diode.
+![RES1](https://github.com/user-attachments/assets/89e6e511-9b12-468a-bbc9-4bcc4753aa9a)# Experiment-1 Demonstrate the Characteristics of Zener diode.
 # Aim:
 To plot the V-I characteristics of Zener diode.
 # APPARATUS REQUIRED:
@@ -32,16 +32,24 @@ FORMULA USED:
 
 Reverse Resistance RR = ΔVR / ΔIR (Ω)
 # CIRCUIT DIAGRAM:
+![CD 1](https://github.com/user-attachments/assets/c46fe33c-68ae-4d97-bd78-40f7473a278d)
 
 
 # TABULAR COLUMN & CALCULATION:
+![TC 1](https://github.com/user-attachments/assets/6126b1c9-db91-4be1-a5cd-a43332fe9593)
+![CT1](https://github.com/user-attachments/assets/11e3e053-f0dc-4258-a6fb-d436841d93aa)
 
 # MODEL GRAPH:
-<img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
+![CD 1](https://github.com/user-attachments/assets/328ad3d8-19c6-4e9e-b72b-00e485c3bcdb)
+
 
 # GRAPH:
+![GR1](https://github.com/user-attachments/assets/2a129317-4ad4-4e79-afa0-339b087b094a)
+
+
 
 # RESULT:
+![RES1](https://github.com/user-attachments/assets/5cd42b9b-5796-4768-93e5-ecc382901d04)
 
 
 
