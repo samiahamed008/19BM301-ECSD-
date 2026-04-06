@@ -11,13 +11,17 @@ To design and analyze diode clipper circuits
 4. Do a similar procedure for the given clipper circuits.
 
 # Circuit Diagram & Model Graph:
+![CDMG6](https://github.com/user-attachments/assets/64cc4194-4ed8-4b2a-997f-a245a1024235)
 
 
 # Tabular Column and Calculation:
+![CAL6](https://github.com/user-attachments/assets/c9b254f8-3106-42fe-82fd-b6d35cd05853)
 
 
 # Graph:
+![MG6](https://github.com/user-attachments/assets/78506813-762d-49e6-bdcd-83074147930b)
 
 
  # Result:
- 
+ ![RES6](https://github.com/user-attachments/assets/43e279bd-f56e-4141-b6f9-6a6b204ff74d)
+
