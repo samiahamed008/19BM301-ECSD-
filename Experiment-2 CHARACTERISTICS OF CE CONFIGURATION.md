@@ -2,7 +2,8 @@
 # Aim:
 To Plot the input and output characteristics of the transistor in CE mode, to determine the h-parameters from the graph.
 # Components Required:
-<img width="681" height="339" alt="image" src="https://github.com/user-attachments/assets/4260154b-688f-4e0f-a430-8f90b498072f" />
+![AR2](https://github.com/user-attachments/assets/717d4643-9006-42ee-86d8-dce32207b2d4)
+
 # Procedure:
 INPUT CHARACTERISTICS
 1. Connections are made as per the circuit diagram.
@@ -25,19 +26,28 @@ above procedure is repeated for different IB constant values.
 4. The h – parameter values are found from the graph.
    
 Formula:
+![FOR2](https://github.com/user-attachments/assets/eb36cacb-a6ca-460b-ab94-0aa0833ad20f)
 
-<img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
+
 # Circuit Diagram and Model Graph:
+![CD2](https://github.com/user-attachments/assets/8d0f2374-adf3-4b1e-890a-d610d588a6e4)
+![MODG2](https://github.com/user-attachments/assets/f0077b26-2251-4198-b9cb-a8ac162be730)
 
 
 
 # Tabular Column & Calculation:
+![TC2](https://github.com/user-attachments/assets/2ac36680-c6bc-4623-abd3-047d7183fe7d)
+![CT2](https://github.com/user-attachments/assets/a15a6ac8-a6e9-4b45-9969-a539d20f79a4)
+![CAL2](https://github.com/user-attachments/assets/39b3ef38-e324-4f48-8dad-4e601a39198b)
 
 
 # Graph:
+![MG2](https://github.com/user-attachments/assets/e3fbdb58-812f-4a25-b7ae-a4b735bc1b63)
+![MGR2](https://github.com/user-attachments/assets/bbc97b11-b4a2-4444-9c0d-69cd5e535a69)
 
 
 # Result:
+![RES2](https://github.com/user-attachments/assets/09f20a47-0c6b-4a23-a2f8-421211774804)
 
 
 
